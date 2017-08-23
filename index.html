@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<title>HW 1 Wireframe</title>
+	<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+	<header> Header!
+	</header>
+
+	<section id="nav">nav</section>
+
+	<section id="section">Section
+	<div class="article">
+
+	Ex menandri intellegam nam, nec dicat option moderatius in. Mei te vide ignota gubergren, mei ei quas intellegam. Mea cu tamquam epicurei voluptatum, et usu labore blandit, sed putant perpetua maluisset no.
+<h1>HEADING 1!</h1>
+
+Soleat aperiri omittam sit cu, ea labore cotidieque eum, suscipit oportere ex mea. Voluptaria cotidieque pri ut, an dolore volutpat accommodare mei, pro saepe feugait eu. Pri ut tollit quodsi invidunt.
+<h2>HEADING 2!</h2>
+
+His novum omnium latine in, et option explicari eos, eu copiosae iudicabit deterruisset est. Nemore ceteros pertinax at nam. Ei voluptatum efficiendi mea, ius eu timeam perpetua.
+<h3>HEADING 3!</h3>
+
+<p>PARAGRAPH saperet instructior. Has decore recteque ad, nam dico populo posidonium an, quo ex facete sapientem. Vidit decore ne quo. Eius sensibus vim at. Lorem fuisset vis no. Oratio saperet ceteros quo ea, eam an nostrum voluptatibus, eu duo aperiri equidem perfecto.</p></div>
+	</section>
+
+	<div id="aside">His novum omnium latine in, et option explicari eos, eu copiosae iudicabit deterruisset est. Nemore ceteros pertinax at nam. Ei voluptatum efficiendi mea, ius eu timeam perpetua. Cu mel laboramus voluptaria, ea error tacimates intellegat has. Elitr essent evertitur at mel, te platonem scriptorem est.
+
+Et vix saperet instructior. Has decore recteque ad, nam dico populo posidonium an, quo ex facete sapientem. Vidit decore ne quo. Eius sensibus vim at. Lorem fuisset vis no. Oratio saperet ceteros quo ea, eam an nostrum voluptatibus, eu duo aperiri equidem perfecto.
+		
+	</div>
+
+	<div id="footer">FOOTER Et vix saperet instructior. Has decore recteque ad, nam dico populo posidonium an, quo ex facete sapientem. Vidit decore ne quo. Eius sensibus vim at. Lorem fuisset vis no. Oratio saperet ceteros quo ea, eam an nostrum voluptatibus, eu duo aperiri equidem perfecto.</div>
+
+	
+</body>
+</html>
